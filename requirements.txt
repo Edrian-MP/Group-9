@@ -1,0 +1,11 @@
+numpy>=1.26,<3
+opencv-python>=4.8,<5
+Pillow>=10,<12
+matplotlib>=3.8,<4
+scikit-learn>=1.4,<2
+pyserial>=3.5,<4
+tensorflow>=2.13,<2.17; python_version < "3.13"
+tensorflow>=2.20,<2.22; python_version >= "3.13"
+flatbuffers>=24.3.25; python_version >= "3.13"
+RPi.GPIO>=0.7; platform_system == "Linux" and platform_machine == "armv7l"
+RPi.GPIO>=0.7; platform_system == "Linux" and platform_machine == "aarch64"

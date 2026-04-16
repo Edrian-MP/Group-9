@@ -1,0 +1,4 @@
+.env.supabase
+.venv/
+__pycache__/
+*.pyc

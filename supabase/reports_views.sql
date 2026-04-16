@@ -1,0 +1,3 @@
+-- Owner-only cloud views setup.
+-- Supabase SQL Editor cannot execute local file includes.
+-- Please run the full setup from: supabase/bootstrap_cloud.sql
